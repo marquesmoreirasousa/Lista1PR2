@@ -21,18 +21,18 @@ namespace Lista1PR2
             //Console.ReadKey();
 
             //Exercicio 2
-            int fa1, resInt;
-            float fa2, resFloat;
-            Console.WriteLine("Entre com o Fahrenheit int:");
-            fa1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com o Fahrenheit float:");
-            fa2 = float.Parse(Console.ReadLine());
+            //int fa1, resInt;
+            //float fa2, resFloat;
+            //Console.WriteLine("Entre com o Fahrenheit int:");
+            //fa1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Entre com o Fahrenheit float:");
+            //fa2 = float.Parse(Console.ReadLine());
 
-            resInt = (fa1 - 32) * (5 / 9);
-            resFloat = (fa2 - 32.0f) * (5.0f / 9.0f);
+            //resInt = (fa1 - 32) * (5 / 9);
+            //resFloat = (fa2 - 32.0f) * (5.0f / 9.0f);
 
-            Console.WriteLine("Resultado float " +resFloat);
-            Console.WriteLine("Resultado int " +resInt);
+            //Console.WriteLine("Resultado float " +resFloat);
+            //Console.WriteLine("Resultado int " +resInt);
         }
     }
 }
