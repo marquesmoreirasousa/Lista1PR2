@@ -11,14 +11,14 @@ namespace Lista1PR2
         static void Main(string[] args)
         {
             //Exercício 1
-            //int metros, cm, mm;
-            //Console.WriteLine("Digite o número de metros: ");
-            //metros = int.Parse(Console.ReadLine());
-            //cm = metros * 100;
-            //mm = metros * 1000;
-            //Console.WriteLine("A quantidade em cm é " + cm);
-            //Console.WriteLine("A quantidade em mm é " + mm);
-            //Console.ReadKey();
+            int metros, cm, mm;
+            Console.WriteLine("Digite o número de metros: ");
+            metros = int.Parse(Console.ReadLine());
+            cm = metros * 100;
+            mm = metros * 1000;
+            Console.WriteLine("A quantidade em cm é " + cm);
+            Console.WriteLine("A quantidade em mm é " + mm);
+            Console.ReadKey();
 
             //Exercicio 2
             //int fa1, resInt;
